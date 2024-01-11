@@ -12,4 +12,4 @@ The project was brought to life using the following technologies and tools:
 
 ## Deployment
 
-To explore the project, please click on the following link: [CSS Slider](https://vladdlevshuk.github.io/CSS-Slider/)
+To explore the project, please click on the following link: [CSS Slider](https://vladdlevshuk.github.io/css-slider/)
